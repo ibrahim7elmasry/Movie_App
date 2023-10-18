@@ -69,3 +69,4 @@ To build and deploy the app on Android, follow these steps:
    1. npx jest --all --watch 
    # or 
    npm test
+# Movie_App
