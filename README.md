@@ -17,7 +17,7 @@ The Movie App is a React Native application that allows users to discover and ex
 
 ## Features
 
-- Browse a list of movies.
+- Browsea a list of popular movies.
 - View movie details including poster image, title, IMDb rating, year, and the release date.
 - Works in offline mode by caching data.
 - Handles error states for no data or offline connection.
@@ -30,7 +30,7 @@ Please follow these steps to set up and run the app:
    git clone https://github.com/ibrahim7elmasry/Movie_App.git
 
 2. Navigate to the project directory:
-   cd MovieApp
+   cd Movie_App
 
 3. Install dependencies:
    npm install 
@@ -49,7 +49,7 @@ Please follow these steps to set up and run the app:
    npm run android -> for android platform
 
 ## Usage
-   - Open the app and explore a list of movies.
+   - Open the app and explore a list of popular movies.
    - Click on a movie to view its details, including poster image, title, IMDb rating, year, and release date.
    - Use the app in offline mode to access cached data.
 
