@@ -1,13 +1,19 @@
 # Movie App
-![iOS - Home](https://github.com/ibrahim7elmasry/MovieApp/assets/19375545/e2f1a4c4-e838-4052-b94e-b5db4632366b)
+![ios-home](https://github.com/ibrahim7elmasry/Movie_App/assets/19375545/0cb89b4d-709a-4d0b-a5af-843dd50d2f11)
 
-![iOS - Movie Details](https://github.com/ibrahim7elmasry/MovieApp/assets/19375545/49b147c6-9614-448a-a9f1-80ee69d93dbd)
 
-![Android -  Home](https://github.com/ibrahim7elmasry/MovieApp/assets/19375545/1dfd68da-a5cb-47e5-9c70-9aa071988869)
+![ios-details](https://github.com/ibrahim7elmasry/Movie_App/assets/19375545/a8626f89-3ae5-4e1e-bbb6-e545fcfe4f67)
 
-![Android - Movie Details](https://github.com/ibrahim7elmasry/MovieApp/assets/19375545/cc34b5e0-ac06-427b-84bf-2fd38118762c)
 
-The Movie App is a React Native application that allows users to discover and explore a vast collection of movies. It fetches data from the [The Movie Database (TMDb) API](http://api.themoviedb.org/3/discover/movie?api_key=2509c15c1c1370bae35cf31052da581c).
+![android-home](https://github.com/ibrahim7elmasry/Movie_App/assets/19375545/f0faa570-f5b0-4cd9-8fcb-714bb9f2fc2f)
+
+
+![androis-details](https://github.com/ibrahim7elmasry/Movie_App/assets/19375545/65b1bf81-6eb5-4684-a16e-28a29826d276)
+
+
+![ios-details](https://github.com/ibrahim7elmasry/Movie_App/assets/19375545/44b2c674-dd38-428f-82d0-3963edf932f4)
+
+The Movie App is a React Native application that allows users to discover and explore a vast collection of movies. It fetches data from the [The Movie Database (TMDb) API](https://api.themoviedb.org/3/movie/popular?api_key=2509c15c1c1370bae35cf31052da581c&language=en-US&pag).
 
 ## Features
 
@@ -21,7 +27,7 @@ The Movie App is a React Native application that allows users to discover and ex
 Please follow these steps to set up and run the app:
 
 1. Clone this repository:
-   git clone https://github.com/ibrahim7elmasry/MovieApp.git
+   git clone https://github.com/ibrahim7elmasry/Movie_App.git
 
 2. Navigate to the project directory:
    cd MovieApp
@@ -69,4 +75,6 @@ To build and deploy the app on Android, follow these steps:
    1. npx jest --all --watch 
    # or 
    npm test
+
+   # Install APK: 
 # Movie_App
