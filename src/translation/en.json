@@ -1,0 +1,13 @@
+{
+    "offlineText": "You are currently offline. Using cached data.",
+    "errorText": "Failed to fetch data. Please check your network connection.",
+    "networkError": "Network Error, Please check your network connection..",
+    "offlineError": "You are offline and there is no available cached data to show..",
+    "movies": "Movies",
+    "titleText": "Unlimited movies, TV shows, and more...",
+    "movieDetails": "Movie Details",
+    "year": "Year:",
+    "releaseDate": "Released Date:",
+    "IMBD_Rating": "IMDb Rating:",
+    "description": "Description:"
+}
