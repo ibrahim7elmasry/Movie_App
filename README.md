@@ -80,5 +80,15 @@ To build and deploy the app on Android, follow these steps:
    # or 
    npm test
 
-   # Install APK: 
+   ### How to Install the APK
+
+   1. On your Android device, go to "Settings."
+   2. Navigate to "Security" or "Privacy."
+   3. Enable "Install from unknown sources" or "Unknown sources."
+   4. Download the APK file from the release page.
+   5. Open the downloaded file to start the installation process.
+   6. Follow the on-screen instructions to install the app.
+   7. Once the installation is complete, you can open and use the app.
+
+   Note: After installation, it's recommended to disable the "Install from unknown sources" option for security.
 # Movie_App
