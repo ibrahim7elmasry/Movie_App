@@ -25,6 +25,7 @@ Please follow these steps to set up and run the app:
    cd Movie_App
 
 3. Install dependencies:
+
    npm install 
    # or
    yarn install
