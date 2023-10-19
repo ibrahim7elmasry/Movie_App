@@ -31,11 +31,13 @@ Please follow these steps to set up and run the app:
    yarn install
 
 4. Start the development server:
+
    npm start 
    # or
    yarn start
 
 5. Run the app on your preferred platform (iOS/Android):
+
 
    npm run ios -> for iOS platform
    # or
@@ -69,6 +71,7 @@ To build and deploy the app on Android, follow these steps:
    - You can choose the jdk by open android studio and go to File and Project Structure and SDK Location then Gradle Settings and from Gradle JDK choose 11
    - If there any issue in running use implementation instead of compile for dependencies in build.gradle
    ## Run unit test
+
    1. npx jest --all --watch 
    # or 
    npm test
