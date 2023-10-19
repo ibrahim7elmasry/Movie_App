@@ -71,6 +71,10 @@ To build and deploy the app on Android, follow these steps:
    2. Open the project in Android Studio.
    3. Build and run the app using the Android emulator or a physical Android device.
 
+# Notes for build Android
+   - This project uses react-native: "0.72.4", so the gradle will be gradle-7.5-bin and the jdk is 11.0.6
+   - You can choose the jdk by open android studio and go to File and Project Structure and SDK Location then Gradle Settings and from Gradle JDK choose 11
+   - If there any issue in running use implementation instead of compile for dependencies in build.gradle
    ## Run unit test
    1. npx jest --all --watch 
    # or 
