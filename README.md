@@ -1,17 +1,9 @@
 # Movie App
-![ios-home](https://github.com/ibrahim7elmasry/Movie_App/assets/19375545/0cb89b4d-709a-4d0b-a5af-843dd50d2f11)
+![home](https://github.com/ibrahim7elmasry/Movie_App/assets/19375545/0cb89b4d-709a-4d0b-a5af-843dd50d2f11)
 
 
-![ios-details](https://github.com/ibrahim7elmasry/Movie_App/assets/19375545/a8626f89-3ae5-4e1e-bbb6-e545fcfe4f67)
+![details](https://github.com/ibrahim7elmasry/Movie_App/assets/19375545/a8626f89-3ae5-4e1e-bbb6-e545fcfe4f67)
 
-
-![android-home](https://github.com/ibrahim7elmasry/Movie_App/assets/19375545/f0faa570-f5b0-4cd9-8fcb-714bb9f2fc2f)
-
-
-![androis-details](https://github.com/ibrahim7elmasry/Movie_App/assets/19375545/65b1bf81-6eb5-4684-a16e-28a29826d276)
-
-
-![ios-details](https://github.com/ibrahim7elmasry/Movie_App/assets/19375545/44b2c674-dd38-428f-82d0-3963edf932f4)
 
 The Movie App is a React Native application that allows users to discover and explore a vast collection of movies. It fetches data from the [The Movie Database (TMDb) API](https://api.themoviedb.org/3/movie/popular?api_key=2509c15c1c1370bae35cf31052da581c&language=en-US&pag).
 
